@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Deniz Köse Emir CV</title>
@@ -8,10 +7,9 @@
     </script>
 </head>
 <body>
-</h1>
 <h1>DENİZ KÖSE EMİR</h1>
-<p align="center" <span
-style='font-size:15.0pt;line-height:107%;color:#C00000'>Please check out my CV<o:p></o:p></span></p>
+<span
+style='font-size:15.0pt;line-height:107%;color:#C00000'>Please check out my CV<o:p></o:p></span>
 <img width=99 height=113  src="DKfoto.jpg" >
 <nav>
   <ul>
@@ -24,7 +22,7 @@ style='font-size:15.0pt;line-height:107%;color:#C00000'>Please check out my CV<o
 </nav>
 <font face="Tahoma" size="2px" color="#2ECC71">You may find detailed information by clicking above sections</font>
 <h2><I><span
-style='font-size:35.0pt;line-height:107%;color:#FF5733'>Important</I></h2>
+style='font-size:35.0pt;line-height:107%;color:#FF5733'>Important
 <p align="center" class=MsoNormal><span lang=TR style='color:#002060;mso-ansi-language:TR'><a
 href="https://tr.linkedin.com/in/deniz-k%C3%B6se-emir-89777193">My Linkedin Page</a><o:p></o:p></span></p>
 <h3>Contact Information</h3>
@@ -86,4 +84,4 @@ href="https://tr.linkedin.com/in/deniz-k%C3%B6se-emir-89777193">My Linkedin Page
   </td>
  </tr>
 <font face="Arial" size="2px" color="#FF7A59">You may find my contact information below.</font>
-</html>
+
