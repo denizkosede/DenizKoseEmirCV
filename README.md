@@ -13,7 +13,7 @@ style='font-size:15.0pt;line-height:107%;color:#C00000'>Please check out my CV<o
 <img width=99 height=113  src="DKfoto.jpg" >
 <nav>
   <ul>
-    <li><a href="about.html">About</a></li>
+    <li><a href="About.html">About</a></li>
     <li><a href="LANGUAGES.html">Language</a></li>
     <li><a href="EDUCATION.html">Education</a></li>
     <li><a href="EXPERIENCE.html">Experiences</a></li>
